@@ -7,4 +7,5 @@ date: 2014-01-01
 venue: "Physical Review X"
 citation:
 ---
+
 [Download paper here](http://pfdamasceno.github.io/files/2014_Chen.pdf)

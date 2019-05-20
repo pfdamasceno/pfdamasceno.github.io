@@ -9,4 +9,5 @@ citation:
 ---
 In which we design a method for experimentally fabricating nanoparticles
 capable of self-assembling a desired target structure.
+
 [Download paper here](http://pfdamasceno.github.io/files/2015_Schultz.pdf)
