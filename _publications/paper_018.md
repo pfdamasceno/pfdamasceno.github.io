@@ -5,8 +5,7 @@ permalink: /publication/paper_018.md
 excerpt: "something"
 date: 2018-01-01
 venue: journalX
-citation
+citation:
 ---
-This paper ...
-
+Which 2D _nets_ are most capable of _self-folding_ into a 3D polyhedron?
 [Download paper here](http://pfdamasceno.github.io/files/2018_Dodd.pdf)

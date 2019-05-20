@@ -6,5 +6,4 @@ excerpt:
 date: 2010-02-02
 venue: "Physical Review B"
 ---
-
 [Download paper here](http://pfdamasceno.github.io/files/2010_daSilva.pdf)

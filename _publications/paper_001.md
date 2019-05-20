@@ -5,6 +5,7 @@ permalink: /publication/paper_001.md
 excerpt: "something"
 date: 2006-01-01
 venue: "Revista Brasileira de Ensino de Fisica"
+citation:
 ---
 _Can a hit from a slingshot kill you?_
 My first academic paper shows that even home-made slingshots can
