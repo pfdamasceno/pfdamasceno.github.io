@@ -1,12 +1,11 @@
 ---
 title: "Predictive self-assembly of polyhedra into complex structures"
 collection: publications
-permalink: /publication/20XX
+permalink: /publication/paper_006.md
 excerpt: "something"
 date: 20XX-XX-xx
 venue: journalX
-citation
 ---
 This paper ...
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://pfdamasceno.github.io/files/2012_Damasceno.pdf)

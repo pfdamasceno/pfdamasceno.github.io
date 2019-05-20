@@ -1,12 +1,12 @@
 ---
 title: "Pressure-induced structural phase transitions in a two-dimensional system"
 collection: publications
-permalink: /publication/20XX
+permalink: /publication/paper_002.md
 excerpt: "something"
-date: 20XX-XX-xx
-venue: journalX
-citation
+date: 2009-01-01
+venue: Physical Review B
 ---
-This paper ...
+In which a simple model explains how square crystalline lattices can,
+under pressure, be transformed into hexagonal ones.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://pfdamasceno.github.io/files/2009_Damasceno.pdf)

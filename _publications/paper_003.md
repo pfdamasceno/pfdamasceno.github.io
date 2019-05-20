@@ -1,12 +1,9 @@
 ---
 title: "Temperature and pinning effects on driving a 2D electron system on a helium film: A numerical study"
 collection: publications
-permalink: /publication/20XX
+permalink: /publication/paper_003.md
 excerpt: "something"
-date: 20XX-XX-xx
-venue: journalX
-citation
+date: 2010-01-01
+venue: Journal of Low Temp Physics
 ---
-This paper ...
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://pfdamasceno.github.io/files/2010_Damasceno.pdf)

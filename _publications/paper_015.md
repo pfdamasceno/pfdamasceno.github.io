@@ -1,12 +1,11 @@
 ---
 title: "Non-Close-Packed Three-Dimensional Quasicrystals"
 collection: publications
-permalink: /publication/20XX
+permalink: /publication/paper_015.md
 excerpt: "something"
-date: 20XX-XX-xx
-venue: journalX
-citation
+date: 2017-XX-xx
+venue:
+citation:
 ---
 This paper ...
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://pfdamasceno.github.io/files/2017_Damasceno.pdf)

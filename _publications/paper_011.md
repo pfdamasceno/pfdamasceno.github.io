@@ -1,12 +1,12 @@
 ---
 title: "Symmetry considerations for the targeted assembly of entropically stabilized colloidal crystals via Voronoi particles"
 collection: publications
-permalink: /publication/20XX
+permalink: /publication/paper_011.md
 excerpt: "something"
-date: 20XX-XX-xx
-venue: journalX
-citation
+date: 2015
+venue: ACS Nano
+citation:
 ---
 This paper ...
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://pfdamasceno.github.io/files/2015_Schultz.pdf)

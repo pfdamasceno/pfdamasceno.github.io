@@ -1,7 +1,7 @@
 ---
 title: "Self-assembly of a space-tessellating structure in the binary system of hard tetrahedra and octahedra"
 collection: publications
-permalink: /publication/20XX
+permalink: /publication/paper_014.md
 excerpt: "something"
 date: 20XX-XX-xx
 venue: journalX
@@ -9,4 +9,4 @@ citation
 ---
 This paper ...
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://pfdamasceno.github.io/files/2016_Cadotte.pdf)

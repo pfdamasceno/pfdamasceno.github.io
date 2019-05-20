@@ -1,12 +1,10 @@
 ---
 title: "Two-dimensional Coulomb solid with interaction anisotropy"
 collection: publications
-permalink: /publication/20XX
+permalink: /publication/paper_004.md
 excerpt: "something"
-date: 20XX-XX-xx
-venue: journalX
-citation
+date: 2010-02-02
+venue: Physical Review B
 ---
-This paper ...
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://pfdamasceno.github.io/files/2010_daSilva.pdf)

@@ -1,12 +1,12 @@
 ---
 title: "A kirigami approach to engineering elasticity in nanocomposites through patterned defects"
 collection: publications
-permalink: /publication/20XX
+permalink: /publication/paper_009.md
 excerpt: "something"
-date: 20XX-XX-xx
-venue: journalX
+date: 2015-XX-xx
+venue: Nature Materials
 citation
 ---
 This paper ...
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://pfdamasceno.github.io/files/2015_Shyu.pdf)

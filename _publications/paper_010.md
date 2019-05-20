@@ -1,12 +1,12 @@
 ---
 title: "Computational self-assembly of a one-component icosahedral quasicrystal"
 collection: publications
-permalink: /publication/20XX
+permalink: /publication/paper_010.md
 excerpt: "something"
-date: 20XX-XX-xx
-venue: journalX
+date: 2014-XX-XX
+venue: Nature Materials
 citation
 ---
 This paper ...
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://pfdamasceno.github.io/files/2014_Engel.pdf)
