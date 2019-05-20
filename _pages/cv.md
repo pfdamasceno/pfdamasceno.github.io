@@ -42,11 +42,11 @@ Skills
 * Multi-Scale Computer Simulations:
   * Finite Elements, MCMC, Monte Carlo, Molecular Dynamics
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Talks
 ======
