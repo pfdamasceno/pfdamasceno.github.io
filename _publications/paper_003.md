@@ -5,5 +5,4 @@ permalink: /publication/paper_003.md
 date: 2010-01-01
 venue: "Journal of Low Temp Physics"
 ---
-
 [Download paper here](http://pfdamasceno.github.io/files/2010_Damasceno.pdf)

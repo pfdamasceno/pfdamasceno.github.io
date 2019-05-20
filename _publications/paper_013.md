@@ -7,5 +7,4 @@ date: 2016-01-01
 venue: "Physical Review Letters"
 citation:
 ---
-
 [Download paper here](http://pfdamasceno.github.io/files/2016_Froufe-Perez.pdf)
