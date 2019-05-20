@@ -1,0 +1,12 @@
+---
+title: "Crystalline assemblies and densest packings of a family of truncated tetrahedra and the role of directional entropic title: "forces"
+collection: publications
+permalink: /publication/20XX
+excerpt: "something"
+date: 20XX-XX-xx
+venue: journalX
+citation
+---
+This paper ...
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
