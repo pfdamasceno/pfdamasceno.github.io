@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper_002.md
 excerpt: "something"
 date: 2009-01-01
-venue: Physical Review B
+venue: "Physical Review B"
 ---
 In which a simple model explains how square crystalline lattices can,
 under pressure, be transformed into hexagonal ones.

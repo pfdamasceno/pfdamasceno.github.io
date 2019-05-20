@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/paper_003.md
 excerpt: "something"
 date: 2010-01-01
-venue: Journal of Low Temp Physics
+venue: "Journal of Low Temp Physics"
 ---
 [Download paper here](http://pfdamasceno.github.io/files/2010_Damasceno.pdf)

@@ -3,8 +3,8 @@ title: "Crystalline assemblies and densest packings of a family of truncated tet
 collection: publications
 permalink: /publication/paper_005.md
 excerpt: "something"
-date: 2011
-venue: ACS Nano
+date: 2011-01-01
+venue: "ACS Nano"
 ---
 This paper introduces the idea of _directional entropic forces_ as
 a key concept to explain how non-attractive particles can self-assemble into complex crystals.
