@@ -25,31 +25,30 @@ Work experience
     * Server / dataset management
 
 * 2017 - Experimental Nanotech Designer (UCSF)
+  * Computational Modeling of DNA
+    * Workflows for microscopy image analysis
+    * Molecular Dynamics models of DNA folding and assembly
+    * Suites for geometrical manipulation and visualization of DNA
   * Nanofabrication of DNA origami
     * DNA-origami design and self-assembly
     * TEM (microscopy)
-  * Computational Modeling of DNA
-    * Workflows for microscopy image analysis.
-    * Molecular Dynamics models of DNA folding and assembly.
-    * Suites for geometrical manipulation and visualization of DNA.
 
 Skills
 ======
 * Biomedical Machine Learning (python):
-  * Clustering & Classification
   * Graph Convolution Networks
-  * Imaging analysis (MRI / PET)
+  * Imaging classification
   * Time series regression
 * Physics-based Modeling:
-  * Agent-based Models (Complex Systems)
-  * Network Theory
+  * Agent-based Models
+  * Network Analysis
   * Statistics & Thermodynamics
 * Multi-Scale Computer Simulations:
-  * Finite Elements, MCMC, Monte Carlo, Molecular Dynamics
+  * Finite Elements, MCMC, Molecular Dynamics, Monte Carlo
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
