@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper_007.md
 excerpt:
 date: 2013-01-01
-venue: "Angie Chem"
+venue: "Angewandte Chemie Int. Edition"
 citation:
 ---
 In which we use the concept of _directional entropic forces_ to help guide

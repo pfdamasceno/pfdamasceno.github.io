@@ -8,5 +8,4 @@ venue: "Soft Matter"
 citation:
 ---
 Cover article of Soft Matter =).
-
 [Download paper here](http://pfdamasceno.github.io/files/2016_Cadotte.pdf)

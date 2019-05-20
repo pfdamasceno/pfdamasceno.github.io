@@ -7,5 +7,4 @@ venue: "Physical Review B"
 ---
 In which a simple model explains how square crystalline lattices can,
 under pressure, be transformed into hexagonal ones.
-
 [Download paper here](http://pfdamasceno.github.io/files/2009_Damasceno.pdf)

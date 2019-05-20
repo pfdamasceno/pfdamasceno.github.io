@@ -9,5 +9,4 @@ citation:
 ---
 In which we discover a number of novel quasicrystals using a simple isotropic
 pair potential.
-
 [Download paper here](http://pfdamasceno.github.io/files/2017_Damasceno.pdf)
