@@ -11,49 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, U of Sao Carlos, SP, Brazil, 2005
+* Ph.D in Applied Physics, U of Michigan, MI, 2015
+* Postdoc in Cellular and Molecular Pharmacology, UCSF, CA, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 - Data Scientist in Radiology (UCSF)
+  * Machine Learning applied to patient care
+  * Duties included:
+    * Matlab -> Python conversions
+    * Continuous integration
+    * Git integration
+    * Server management
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning / Data-driven Modeling:
+  * Autoencoder / CNN
+  * Clustering & Classification
+  * Graph Convolution Networks
+  * Time series Classification
+* Physics-based Modeling:
+  * Agent-based Models (Complex Systems)
+  * Network Theory
+  * Thermodynamics & Statistics
+* Multi-Scale Computer Simulations:
+  * Finite Elements
+  * Markov Chain Monte Carlo (MCMC)
+  * Monte Carlo
+  * Molecular Dynamics
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->
