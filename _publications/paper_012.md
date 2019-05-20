@@ -9,5 +9,4 @@ citation:
 ---
 In which we discuss the conditions for emergence of global chirality in systems
 of non-attractive Brownian particles.
-
 [Download paper here](http://pfdamasceno.github.io/files/2017_Damasceno.pdf)
