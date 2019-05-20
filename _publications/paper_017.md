@@ -3,7 +3,7 @@ title: "Unusual multiscale mechanics of biomimetic nanoparticle hydrogels"
 collection: publications
 permalink: /publication/paper_017.md
 excerpt: "something"
-date: 20XX-XX-xx
+date: 2018-01-01
 venue: journalX
 citation
 ---

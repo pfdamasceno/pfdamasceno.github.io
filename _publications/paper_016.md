@@ -3,7 +3,7 @@ title: "On the Form and Growth of Complex Crystals: The Case of Tsai-Type Cluste
 collection: publications
 permalink: /publication/paper_016.md
 excerpt: "something"
-date: 20XX-XX-xx
+date: 2017-01-01
 venue: journalX
 citation
 ---

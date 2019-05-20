@@ -3,7 +3,7 @@ title: "A kirigami approach to engineering elasticity in nanocomposites through 
 collection: publications
 permalink: /publication/paper_009.md
 excerpt: "something"
-date: 2015-XX-xx
+date: 2015-01-01
 venue: Nature Materials
 citation
 ---

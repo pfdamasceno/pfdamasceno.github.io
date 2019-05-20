@@ -3,7 +3,7 @@ title: "Self-assembly of a space-tessellating structure in the binary system of 
 collection: publications
 permalink: /publication/paper_014.md
 excerpt: "something"
-date: 20XX-XX-xx
+date: 2016-01-01
 venue: journalX
 citation
 ---

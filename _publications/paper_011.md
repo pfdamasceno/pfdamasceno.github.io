@@ -3,7 +3,7 @@ title: "Symmetry considerations for the targeted assembly of entropically stabil
 collection: publications
 permalink: /publication/paper_011.md
 excerpt: "something"
-date: 2015
+date: 2015-01-01
 venue: ACS Nano
 citation:
 ---

@@ -3,7 +3,7 @@ title: "A directional entropic force approach to assemble anisotropic nanopartic
 collection: publications
 permalink: /publication/paper_007.md
 excerpt: "something"
-date: 20XX-XX-xx
+date: 2013-01-01
 venue: journalX
 citation
 ---

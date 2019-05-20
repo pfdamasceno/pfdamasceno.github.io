@@ -3,7 +3,7 @@ title: "Role of Short-Range Order and Hyperuniformity in the Formation of Band G
 collection: publications
 permalink: /publication/paper_013.md
 excerpt: "something"
-date: 2016
+date: 2016-01-01
 venue: Physical Review Letters
 citation:
 ---

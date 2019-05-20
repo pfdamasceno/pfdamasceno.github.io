@@ -3,7 +3,7 @@ title: "Universal folding pathways of polyhedron nets"
 collection: publications
 permalink: /publication/paper_018.md
 excerpt: "something"
-date: 20XX-XX-xx
+date: 2018-01-01
 venue: journalX
 citation
 ---
