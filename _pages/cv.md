@@ -11,36 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, U of Sao Carlos, SP, Brazil, 2005
-* Ph.D in Applied Physics, U of Michigan, MI, 2015
-* Postdoc in Cellular and Molecular Pharmacology, UCSF, CA, 2017
+* B.S. in Physics, U of Sao Carlos (SP), Brazil, 2005
+* Ph.D in Applied Physics, U of Michigan (MI), 2015
+* Postdoc in Cellular & Molecular Pharmacology, UCSF (CA) 2017
+* Postdoc in Radiology & Biomedical Imaging, UCSF (CA) 2018
 
 Work experience
 ======
-* 2017 - Data Scientist in Radiology (UCSF)
-  * Machine Learning applied to patient care
-  * Duties included:
-    * Matlab -> Python conversions
-    * Continuous integration
-    * Git integration
-    * Server management
+* 2018 - Data Scientist in Radiology (UCSF)
+  * Machine Learning applied to patient care:
+    * Matlab -> Python conversion
+    * Code development (Git / CI)
+    * Server / dataset management
+
+* 2017 - Experimental Nanotech Designer (UCSF)
+  * Nanofabrication of DNA origami
+  * Computational Modeling of DNA
 
 Skills
 ======
-* Machine Learning / Data-driven Modeling:
-  * Autoencoder / CNN
+* Machine Learning (python):
+  * Autoencoder
   * Clustering & Classification
   * Graph Convolution Networks
-  * Time series Classification
+  * Time series regression
 * Physics-based Modeling:
   * Agent-based Models (Complex Systems)
   * Network Theory
   * Thermodynamics & Statistics
 * Multi-Scale Computer Simulations:
-  * Finite Elements
-  * Markov Chain Monte Carlo (MCMC)
-  * Monte Carlo
-  * Molecular Dynamics
+  * Finite Elements, MCMC, Monte Carlo, Molecular Dynamics
 
 Publications
 ======
