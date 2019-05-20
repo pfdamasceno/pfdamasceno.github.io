@@ -2,10 +2,9 @@
 title: "A directional entropic force approach to assemble anisotropic nanoparticles into superlattices"
 collection: publications
 permalink: /publication/paper_007.md
-excerpt: "something"
 date: 2013-01-01
-venue: journalX
-citation
+venue: Angie Chem
+citation:
 ---
 This paper ...
 

@@ -2,7 +2,6 @@
 title: "Pressure-induced structural phase transitions in a two-dimensional system"
 collection: publications
 permalink: /publication/paper_002.md
-excerpt: "something"
 date: 2009-01-01
 venue: "Physical Review B"
 ---

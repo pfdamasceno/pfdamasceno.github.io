@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Análise de um estilingue e espirais de caderno: Um estudo de caso."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/paper_001.md
+excerpt: "something"
+date: 2006-01-01
+venue: "Revista Brasileira de Ensino de Fisica"
 ---
-This paper is about the number 1. The number 2 is left for future work.
+_Can a hit from a slingshot kill you?_
+My first academic paper shows that even home-made slingshots can
+be fatal, owing to cubic terms in Hooke's law that make elastics
+a lot more dangerous than springs.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper (in Portuguese) here](http://pfdamasceno.github.io/files/2006_Damasceno.pdf)

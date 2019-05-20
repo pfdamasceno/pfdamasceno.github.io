@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper_015.md
 excerpt: "something"
 date: 2017-01-01
-venue:
+venue: "J. Phys.: Condens. Matter"
 citation:
 ---
 This paper ...
