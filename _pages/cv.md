@@ -18,8 +18,18 @@ Education
 
 Work experience
 ======
+* 2020 - Senior Machine Learning Specialist (UCSF)
+  * Clinical deployment of computer vision algorithms:
+    * Glioma progression detection
+    * Breast tumor segmentation
+    * Knee anomaly detection
+    * Federated learning for COVID prevention
+
 * 2018 - Data Scientist in Radiology (UCSF)
-  * Machine Learning applied to patient care:
+  * Machine Learning applied to neurodegenerative diseases:
+    * Network diffusion model of proteins aggregation in the brain
+    * Evaluating Alzheimer’s Disease Severity by Spectral Embedding Manifolds
+  * Code / database management:
     * Matlab -> Python conversion
     * Code development (Git / CI)
     * Server / dataset management
@@ -32,19 +42,6 @@ Work experience
   * Nanofabrication of DNA origami
     * DNA-origami design and self-assembly
     * TEM (microscopy)
-
-Skills
-======
-* Biomedical Machine Learning (python):
-  * Graph Convolution Networks
-  * Imaging classification
-  * Time series regression
-* Physics-based Modeling:
-  * Agent-based Models
-  * Network Analysis
-  * Statistics & Thermodynamics
-* Multi-Scale Computer Simulations:
-  * Finite Elements, MCMC, Molecular Dynamics, Monte Carlo
 
 Publications
 ======

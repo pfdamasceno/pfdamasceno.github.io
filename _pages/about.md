@@ -9,10 +9,13 @@ redirect_from:
 ---
 
 I'm a interdisciplinary researcher who loves combining simple theories &
-data-driven models to solve tough problems.
+data-driven models to solve impactful problems.
 
-As an applied data scientist at the [Brain Networks](http://rajlab.ucsf.edu) Lab
-@ UCSF I work towards understanding the mechanisms behind neurodegeneration,
+As a Machine Learning specialist at the [Center for Intelligent Imaging](https://intelligentimaging.ucsf.edu/)
+I help deploy machine / deep learning tools that improve clinical care.
+
+**Previous work:** As an applied data scientist at the [Brain Networks](http://rajlab.ucsf.edu) Lab
+@ UCSF I worked towards understanding the mechanisms behind neurodegeneration,
 with the ultimate goal of improving prognostics and patient care.
 
 Prior to working as a data scientist, I was a computational materials engineer at
